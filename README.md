@@ -1,80 +1,106 @@
-# 💫 About Me:
-👋 Hi, I'm Yacine Mouhous Abderrahmane.<br>🎓 Computer Science student at USDB.<br>🤖 Specializing in AI & Data Science.<br>💻 I build backends and Flutter apps.<br>⚡ Passionate about technology, innovation, and problem-solving.<br>🚀 Always looking to create efficient and scalable solutions
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00AEEF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Yacine+Mouhous+Abderrahmane!;AI+%26+Data+Science+Student+%40+USDB;Backend+Developer+%F0%9F%92%BB;Flutter+Developer+%F0%9F%94%A5;Always+building+scalable+solutions+🚀">
+</p>
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yacine.ine.165) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yacine_mhs0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yacine-mouhous-84354a167) 
+# 💫 About Me  
+🔹 Computer Science student at **USDB**  
+🔹 Specialized in **AI, Data Science, and Backend Systems**  
+🔹 I build **APIs, microservices, and scalable applications**  
+🔹 Passionate about **innovation, DevOps, and distributed systems**  
+🔹 Currently building ML models & production-grade backends  
 
-# 💻 Tech Stack 
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://facebook.com/yacine.ine.165"><img src="https://skillicons.dev/icons?i=facebook" width="48"></a>
+  <a href="https://instagram.com/yacine_mhs0"><img src="https://skillicons.dev/icons?i=instagram" width="48"></a>
+  <a href="https://linkedin.com/in/yacine-mouhous-84354a167"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
+</p>
+
+---
+
+# 💻 Tech Stack  
+<p align="center">
+  <img src="https://github-readme-divider.vercel.app/api?color=0A93F0" />
+</p>
 
 ---
 
 ## 🧠 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ---
 
 ## 🏗️ **Backend Development**
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-%231572B6.svg?style=for-the-badge&logo=fiber&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,django,flask,graphql" height="55"/>
+  <img src="https://img.shields.io/badge/Fiber-1572B6?style=for-the-badge&logo=fiber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://skillicons.dev/icons?i=ts,js" height="55"/>
+</p>
 
 ---
 
 ## 📱 **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="55"/>
+</p>
 
 ---
 
 ## 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="55"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
 
 ---
 
 ## 📨 **Messaging & Streaming**
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" height="55"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
 
 ---
 
 ## ☁️ **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yacine0mouhous&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yacine0mouhous&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yacine0mouhous&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="55"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="55"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yacine0mouhous&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yacine0mouhous&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yacine0mouhous&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacine0mouhous&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+# 👀 Visitors  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=yacine0mouhous&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-divider.vercel.app/api?color=0A93F0" />
+</p>
