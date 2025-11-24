@@ -17,11 +17,46 @@ I'm a 4th-year **Computer Engineering (Data Science)** student at **Saad Dahleb 
 🔹 Specializing in **Machine Learning, Backend Engineering & Mobile Development**  
 🔹 Building systems that solve real-world problems with cutting-edge technology
 
-### 📫 Let's Connect
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mouhous.yacine.abd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouhous.yacine.abd@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Mouhous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yacine-mouhous)
-[![GitHub](https://img.shields.io/badge/GitHub-yacine0mouhous-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yacine0mouhous)
+### 📫 Let's Connect & Collaborate
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="mailto:mouhous.yacine.abd@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <br/>
+      <sub><b>Drop me an email</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/yacine-mouhous">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <br/>
+      <sub><b>Connect professionally</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/yacine0mouhous">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <br/>
+      <sub><b>Check my projects</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="tel:+213792128253">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      </a>
+      <br/>
+      <sub><b>+213 792 128 253</b></sub>
+    </td>
+  </tr>
+</table>
+
+**💼 Open to:** Full-time opportunities • Freelance projects • Collaborations
+
+</div>
 
 ---
 
@@ -126,7 +161,6 @@ I'm a 4th-year **Computer Engineering (Data Science)** student at **Saad Dahleb 
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yacine0mouhous&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yacine0mouhous&theme=radical&hide_border=true)
   
 </div>
 
