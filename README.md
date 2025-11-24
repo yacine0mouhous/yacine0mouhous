@@ -44,13 +44,6 @@ I'm a 4th-year **Computer Engineering (Data Science)** student at **Saad Dahleb 
       <br/>
       <sub><b>Check my projects</b></sub>
     </td>
-    <td align="center" width="200">
-      <a href="tel:+213792128253">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-      </a>
-      <br/>
-      <sub><b>+213 792 128 253</b></sub>
-    </td>
   </tr>
 </table>
 
