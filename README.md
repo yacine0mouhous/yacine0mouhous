@@ -18,25 +18,42 @@
 <br/>
 
 <!-- ============ ABOUT ============ -->
-## 👨‍💻 &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-I'm a **4th-year Computer Engineering student** specializing in **Data Science** at *Saad Dahleb University Blida 1*, driven by a passion for building intelligent systems that solve real problems.
+I'm **Yacine**, a 4th-year **Computer Engineering** student specializing in **Data Science** at *Saad Dahleb University Blida 1*. I love turning raw data into intelligent, production-ready products — and I've spent the last **3+ years** doing exactly that across AI, backend, and mobile.
 
-```python
-class Yacine:
-    def __init__(self):
-        self.role        = "Software & AI Engineer"
-        self.experience  = "3+ years"
-        self.focus       = ["Machine Learning", "Deep Learning", "Reinforcement Learning"]
-        self.also        = ["Backend Engineering", "Flutter Development"]
-        self.currently   = "Intern @ ConnexAI"
-        self.open_to     = ["Full-time", "Freelance", "Collaborations"]
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔭 &nbsp;Currently interning as a **Software & AI Engineer @ ConnexAI**
+
+🧠 &nbsp;Deep into **Machine Learning, Deep Learning & Reinforcement Learning**
+
+⚙️ &nbsp;Building **scalable backend systems** and clean **Flutter** apps
+
+</td>
+<td width="50%" valign="top">
+
+🤖 &nbsp;Fascinated by **multi-agent & LLM-powered** products
+
+🏆 &nbsp;Multiple **hackathon & datathon** podium finishes
+
+🌍 &nbsp;Open to **full-time, freelance & collaborations**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *"Turning data into intelligent solutions that solve real-world problems."*
+
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
-
 <!-- ============ TECH STACK ============ -->
 ## 🧰 &nbsp;Tech Arsenal
 
