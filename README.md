@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:6A5CF6,100:9B5CF6&height=230&section=header&text=Yacine%20Mouhous%20Abderrahmane&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Data%20Scientist%20%C2%B7%20Backend%20%26%20Flutter%20Developer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Yacine%20Mouhous%20Abderrahmane&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20-%20AI%20and%20Data%20Scientist%20-%20Backend%20and%20Flutter%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+%26+AI+Engineer;Machine+Learning+%26+RL+Enthusiast;Backend+%26+Flutter+Developer;Turning+Data+Into+Intelligence" alt="Typing SVG" /></a>
 
@@ -82,7 +82,7 @@
 <tr>
 <td>
 
-### 🇺🇸 Software & AI Engineer Intern — ConnexAI, United States
+### Software & AI Engineer Intern — ConnexAI, United States
 📅 `May 2026 – Present`
 
 Working on integrating AI-driven features into backend systems and contributing to the development of intelligent software solutions as part of a US-based engineering team.
@@ -266,4 +266,4 @@ End-to-end RL system optimizing surge price multipliers (Uber/Lyft-style) using 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5CF6,50:6A5CF6,100:2E9EF7&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
