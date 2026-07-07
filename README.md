@@ -18,11 +18,7 @@
 <br/>
 
 <!-- ============ ABOUT ============ -->
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 I'm a **4th-year Computer Engineering student** specializing in **Data Science** at *Saad Dahleb University Blida 1*, driven by a passion for building intelligent systems that solve real problems.
 
@@ -31,25 +27,11 @@ class Yacine:
     def __init__(self):
         self.role        = "Software & AI Engineer"
         self.experience  = "3+ years"
-        self.focus       = ["Machine Learning", "Deep Learning",
-                            "Reinforcement Learning"]
-        self.also        = ["Backend Engineering", "Flutter Dev"]
+        self.focus       = ["Machine Learning", "Deep Learning", "Reinforcement Learning"]
+        self.also        = ["Backend Engineering", "Flutter Development"]
         self.currently   = "Intern @ ConnexAI"
-        self.open_to     = ["Full-time", "Freelance", "Collabs"]
+        self.open_to     = ["Full-time", "Freelance", "Collaborations"]
 ```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<br/>
-
-### ⚡ &nbsp;Quick Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=yacine0mouhous&show_icons=true&hide_border=true&count_private=true&title_color=7C9EFF&icon_color=7C9EFF&text_color=c9d1d9&bg_color=0D1117&hide=contribs&card_width=350" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
@@ -178,8 +160,110 @@ class Yacine:
 <!-- ============ PROJECTS ============ -->
 ## 🌟 &nbsp;Featured Projects
 
-<table width="100%">
+### 🩺 Clinical Case Simulator — *Multi-Agent System for Medical Training*
+
+A multi-agent AI system that simulates realistic clinical cases so medical students can practice diagnostic reasoning in a safe, interactive environment. It's powered by cooperating agents: a **patient agent** that reveals symptoms realistically, an **examiner agent** that grades clinical reasoning and history-taking, and an **orchestrator agent** that drives case flow, difficulty and feedback.
+
+**Tech:** `Python` `LLM Agents` `Multi-Agent Orchestration` `NLP` `REST API`
+
+---
+
+### 🏥 MedCare — *Healthcare Queue & Appointment Management*
+
+An end-to-end healthcare platform transforming the patient experience.
+
+- 📱 Patient app for booking & real-time queue tracking
+- 👨‍⚕️ Role-based staff app for doctors, nurses and admins
+- 📺 Live web queue display with ⚡ real-time WebSocket updates
+
+**Tech:** `Flutter` `Dart` `Node.js` `Express.js` `TypeScript` `WebSocket` &nbsp;·&nbsp; 🔗 **[Repository →](https://github.com/yacine0mouhous)**
+
+---
+
+### 🏨 PropPilot — *Hybrid Hotel & Property Management*
+
+A full-stack hospitality platform with AI-driven insights.
+
+- 🤖 ML-powered price prediction
+- 📅 Reservations, rent tracking and maintenance
+- 👥 Multi-role access control (Client, Owner, Admin)
+- 🔐 Secure authentication with JWT + Google OAuth
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Flask` `JWT` &nbsp;·&nbsp; 🔗 **[Repository →](https://github.com/yacine0mouhous)**
+
+---
+
+### 🚕 Dynamic Price Optimization — *RL for Ride-Hailing Surge Pricing*
+
+An end-to-end reinforcement learning system optimizing surge price multipliers (Uber/Lyft-style) from live supply-demand signals.
+
+- 🧠 Implemented and benchmarked **PPO**, **TD3** and **SAC** agents
+- ⚡ Go + WebSocket backend for low-latency fare streaming
+- 📈 Prometheus + Grafana observability stack
+- 🗺️ React + deck.gl dashboard with live demand heatmaps
+
+**Tech:** `Python` `Go` `PPO` `TD3` `SAC` `React.js` `deck.gl` `Docker` &nbsp;·&nbsp; 🔗 **[Repository →](https://github.com/yacine0mouhous)**
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</div>
+
+<!-- ============ ACHIEVEMENTS ============ -->
+## 🏆 &nbsp;Achievements & Beyond
+
+<div align="center">
+
+### 💡 Hackathons & Datathons
+
+| Award | Competition | Placement |
+|:---:|:---|:---:|
+| 🥈 | **Smart DZ Hackathon** — Djezzy | `2nd Place` |
+| 🥈 | **Nexus Medical Hackathon** — Algeria | `2nd Place` |
+| 🥉 | **AI Fest Datathon** | `3rd Place` |
+| 🥉 | **Excel Expo Datathon by Yassir** — Kaggle | `3rd Place` |
+
+</div>
+
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### 🩺 Clinical Case Simulator
+### 🏊 Swimming
+- 🏅 **Ex-Athlete** — 12+ years competing, with multiple national & regional awards
+- 🎓 **Certified Swimming Coach** — qualified across all levels
+- 👨‍🏫 **Part-time Coach** — training young athletes for competition
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Beyond the Code
+- 🧩 **Team Player** — many large-scale academic & personal projects
+- 📚 **Lifelong Learner** — always chasing the next technology
+- 🌍 **Problem Solver** — building things that matter
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</div>
+
+<!-- ============ LANGUAGES + CTA ============ -->
+<div align="center">
+
+## 🗣️ &nbsp;Languages
+
+<img src="https://img.shields.io/badge/Arabic-Native-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/English-Fluent-7C9EFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/French-Fluent-A371F7?style=for-the-badge"/>
+
+<br/><br/>
+
+### 💬 Let's build something great together
+
+<a href="mailto:mouhous.yacine.abd@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-mouhous.yacine.abd@gmail.com-1F6FEB?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
